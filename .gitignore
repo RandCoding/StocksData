@@ -7,3 +7,5 @@ Lib/**
 data/flights.csv
 share/**
 .ipynb*/**
+etc/**
+
